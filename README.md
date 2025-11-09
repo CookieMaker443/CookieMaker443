@@ -1,6 +1,6 @@
 ### Hello 👋
 
-LinkedIn: [Marco Ferrauto](www.linkedin.com/in/marco-ferrauto/)
+LinkedIn: [Marco Ferrauto]([www.linkedin.com/in/marco-ferrauto])
 
 
 Relevant opensource project that I am working on:
