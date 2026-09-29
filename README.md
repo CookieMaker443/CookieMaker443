@@ -1,5 +1,5 @@
 # 💫 About Me:
-Relevant opensource project that I am working on:<br>🏠💾 [GestioLAN - Database Server](https://github.com/CookieMaker443/GestioLan-Server)<br>🖥️📊 [GestioLAN - Client Desktop/Mobile](https://github.com/CookieMaker443/GestioLan-Client)<br>🪝📨 [HookShot -Dispatcher](https://github.com/CookieMaker443/HookShot) <br><br>Uni's game:<br>👾⭐ [UNICT Life simulator](https://github.com/CookieMaker443/Unict-Life_Simulator_Scripts)<br>
+Relevant opensource project that I am working on:<br>🏠💾 [GestioLAN - Database Server](https://github.com/CookieMaker443/GestioLan-Server)<br>🖥️📊 [GestioLAN - Client Desktop/Mobile](https://github.com/CookieMaker443/GestioLan-Client)<br>🪝📨 [HookShot - Dispatcher](https://github.com/CookieMaker443/HookShot) <br>📱🔒 [SecureNotes](https://github.com/CookieMaker443/SecureNotes) <br><br>Uni's game:<br>👾⭐ [UNICT Life simulator](https://github.com/CookieMaker443/Unict-Life_Simulator_Scripts)<br>
 
 
 ## 🌐 Socials:
